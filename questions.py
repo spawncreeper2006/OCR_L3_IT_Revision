@@ -14,6 +14,4 @@ def generate_question(data):
     all_answers = other_answers
     all_answers.insert(correct_answer_number, correct_answer)
     all_answers = [f'{i1}. {i2}' for i1, i2 in zip(range(1, 5), all_answers)]
-    return question, correct_answer_number+1, '\n'.join(all_answers)
-
-
+    return question+'\n'+'\n'.join(all_answers)+'\n', str(correct_answer_number+1)
