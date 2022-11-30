@@ -1,7 +1,7 @@
 import questions as q
 
 topic_dict = {'1': 'System Architecture.txt',
-             '2': 'CPU Performance Factors.txt'}
+              '2': 'CPU Performance Factors.txt'}
 
 
 def valid(x:str, num_topics:int):
@@ -29,7 +29,7 @@ def get_data(fn:str):
 
 def mul_choice_test(fn:str, num_questions=10):
     score = 0
-    data = get_data(fn)
+    data = get_data('questions\\'+fn)
     for x in range(1, num_questions+1):
         question, correct_answer_num = q.generate_question(data)
 
@@ -49,4 +49,7 @@ def main():
 
 if __name__ == '__main__':
     main()
+    
+
+
     
