@@ -3,7 +3,10 @@ import questions as q
 topic_dict = {'1': 'System Architecture.txt',
               '2': 'CPU Performance Factors.txt',
               '3': 'Embeded Systems.txt',
-              '4': 'Primary Storage.txt'}
+              '4': 'Primary Storage.txt',
+              '5': 'Secondary Storage.txt',
+              '6': 'Data Representation.txt',
+              '7': 'Networks and Topologies.txt'}
 
 
 def valid(x:str, num_topics:int):
