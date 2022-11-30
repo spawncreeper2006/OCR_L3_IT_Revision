@@ -1,0 +1,31 @@
+What is a data bus in the CPU?
+The bus that transmits instructions from the RAM.
+The bus that transmits addresses from the CPU to the RAM.
+The cable that connects the pc to the monitor.
+The power cable.
+What is the purpose of the control unit?
+The control unit controls and monitors communications between the hardware attached to the computer. It controls the input and output of data, checks that signals have been delivered successfully, and makes sure that data goes to the correct place at the correct time.
+The control unit performs mathematical and logical operations.
+The control unit stores data that the CPU is currently working on.
+The control unit is one core of the CPU.
+What is the ALU?
+The ALU performs mathematical and logical operations.
+The ALU controls and monitors communications between the hardware attached to the computer. It controls the input and output of data, checks that signals have been delivered successfully, and makes sure that data goes to the correct place at the correct time.
+Allows the computer to connect to the computer.
+It does not exist.
+What are registers?
+Contains data and instructions that the CPU is currently working on.
+Holds frequently requested data.
+Stores files and the OS.
+Sends data to the RAM.
+What is Cache?
+Holds frequently requested data.
+Contains data and instructions that the CPU is currently working on.
+Stores files and the OS.
+Sends data to the RAM.
+What does MAR stand for?
+Memory Adress Register.
+Memory Axis Resoloution.
+Medium Audio Relevance.
+Midi Audio Receiver.
+
