@@ -1,6 +1,7 @@
 import questions as q
 
-topic_dict = {'1': 'System Architecture.txt'}
+topic_dict = {'1': 'System Architecture.txt',
+             '2': 'CPU Performance Factors.txt'}
 
 
 def valid(x:str, num_topics:int):
