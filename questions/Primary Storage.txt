@@ -1,0 +1,80 @@
+What is the purpose of Primary Storage (Main Memory)?
+To hold data and programs that are in current use by the CPU.
+To store files for future use.
+To store the users NI number.
+To store the OS.
+Which of the following is the fastest?
+L1 Cache
+L2 Cache
+L3 Cache
+ROM
+Where is the ROM located?
+The motherboard.
+The CPU.
+The RAM.
+L1 Cache.
+What is an advantage to L1 Cache over other forms of Cache?
+L1 Cache is faster.
+L1 Cache is more expensive.
+L1 Cache is cheaper.
+L1 Cache is more dynamic.
+Which of the following is fastest?
+Immediate access store (registers).
+L1 Cache.
+L2 Cache.
+L3 Cache.
+What does volatile memory mean?
+The data will go when the power is turned off.
+The data will be retained when the power is turned off.
+The Memory is used up frequently.
+Bits often flip in the memory.
+Which of the following is not volatile?
+ROM.
+RAM.
+Cache.
+Immediate access store (registers).
+What does RAM stand for?
+Random Access Memory.
+Read All Memory.
+Register Access Memory.
+RAM is not an acronym.
+What data is stored in the RAM?
+RAM is used to hold data and instructions that are currently in use.
+RAM is used to store files and the OS.
+RAM is not used in modern day computers.
+Images.
+What does DRAM stand for?
+Dynamic Random Access Memory.
+Daring Random Acesss Memory.
+Devious Random Access Memory.
+Dominant Random Access Memory.
+What does SRAM stand for?
+Static Random Access Memory.
+Silent Random Access Memory.
+Secondary Random Access Memory.
+No one knows.
+Which of the following is fastest?
+SRAM.
+DRAM.
+Hard Drive.
+SSD.
+What does ROM stand for?
+Read Only Memory.
+Random Only Memory.
+Read Our Memory.
+Random Occess Memory.
+What is contained withing the ROM?
+The BIOS.
+The files and OS.
+The data and instructions of files that are currently running.
+HTML data.
+What does BIOS stand for?
+Basic Input and Output System.
+Basic Input Or Something.
+Basic Input Operating System.
+Big Input Operating System.
+What is Virtual Memory?
+Virtual Memory uses both hardware and software to enable a computer to compensate for physical memory shortages, temporarily transferring data from random access memory (RAM) to disk storage.
+Virtual Memory is when a server is used as two servers to save money.
+Virtual Memory is memory contained within a HDMI cable.
+Virtual Memory is all the files on a Hard Disk.

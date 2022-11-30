@@ -1,0 +1,15 @@
+What is an embeded system?
+An embedded system is a dedicated computer system that performs one or more specific functions within a larger piece of equipment.
+A PC.
+An embedded system is a computer that runs fast enough to play games at 60fps.
+A general purpose computer that can process any user input.
+Which of the following is an example of an embedded system?
+factory machinery
+a gaming laptop
+a cardboard box
+an old computer tower
+Give one feature of a microcontroller.
+it must have low power consumption
+it must be big
+it must have a high processing power
+it must emit light
