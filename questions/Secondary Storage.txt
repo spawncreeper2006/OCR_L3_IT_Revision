@@ -1,0 +1,55 @@
+What is the point in secondary storage?
+RAM is volatile and data needs to be retained after power is lossed.
+Because it is faster than primary storage.
+Because SSDs are volatile and data must be lost after power is removed.
+Because RAM has been largely replaced by Cache.
+Which of the following is an example of Magnetic Stroage?
+Hard Disk Drive (HDD).
+Solid State Drive (SSD).
+CD-ROM.
+CD-RW.
+Which of the following is an example of Flash Storage?
+Solid State Drive (SSD).
+Hard Disk Drive (HDD).
+CD-ROM.
+CD-RW.
+Which of the following is an example of Flash Storage?
+USB Stick.
+Hard Disk Drive (HDD).
+CD-ROM.
+CD-RW.
+Which of the following is an example of Optical Storage?
+Blu-Ray
+Hard Disk Drive (HDD).
+SD Card.
+Solid State Drive (SSD).
+Which of the following is the most durable?
+SSD.
+Hard Disk Drive.
+a Vinyl Record.
+Magnetic Tape.
+Which of the following has the largest capacity?
+Hard Drive
+SSD
+USB Stick
+SD Card
+Which of the following has the fastest speed in general?
+SSD.
+Hard Disk.
+CD-ROM
+CD-RW.
+Which of the following is the cheapest per GB.
+Hard Drive.
+SSD.
+DVD.
+Blu-Ray.
+Which of the following is not optical?
+Hard Disk.
+Xbox Game Disk.
+DVD.
+CD-RW.
+Which of the following is the most portable?
+USB Stick.
+Hard Disk Drive.
+Magnetic Tape.
+SSD.

@@ -1,0 +1,70 @@
+What is the definition of a computer network?
+A computer network is a set of computers sharing resources located on or provided by network nodes.
+The Internet.
+WWW.
+The FDE Cycle.
+What is the network performance factor that indicates how much data is transfered within a seconds?
+Bandwidth.
+Latency.
+Packet Loss.
+Ping.
+What is the network performance factor that indicates how quick the data is transfered?
+Latency
+Error Rate
+ISP
+Mbps
+When connecting to an online game, what are you considered to be?
+Client.
+Server.
+CPU.
+NIC.
+Which network type is your home likely to be?
+peer-to-peer.
+client-server.
+The Internet.
+WAN.
+Which of these is the smallest network?
+LAN.
+WAN.
+The Internet.
+WWW.
+What is the point in a NIC?
+A NIC allows a computer to connect to a computer network.
+It allows a phone to make calls and texts.
+It allows packets to be encrypted.
+It allows TLS handshakes to take place.
+What is a network hub?
+A network hub is a node that broadcasts data to every computer or Ethernet-based device connected to it.
+A network hub isolates data and only transmits it to a specific device.
+A network hub sends packets to the internet.
+A network hub recieves packets from the internet.
+What is a network switch?
+A network switch forwards data packets between devices. Switches send packets directly to devices, rather than sending them to networks like a router does.
+A network switch takes data packets and forwards them to a network.
+A network switch converts anologue signals to digital.
+A network switch converts digital signals to anologue.
+What is a router?
+A router is used to send packets across the internet.
+A router forwards data packets between devices. routers send packets directly to devices, rather than sending them to networks like a switch does.
+A router creates a single aggregate network from multiple networks and allows them to communicate.
+A router is a node that broadcasts data to every computer or Ethernet-based device connected to it.
+What is a modem?
+It converts the internet's anologue signals to the computer's digital and back to allow them to communicate.
+A modem is used to send packets across the internet.
+A modem forwards data packets between devices. Modems send packets directly to devices, rather than sending them to networks like a router does.
+A the is a node that broadcasts data to every computer or Ethernet-based device connected to it.
+What is a WAP?
+A WAP uses a radio transceiver to allow wireless connections to a network.
+It sends packets to the internet.
+A WAP forwards data packets between devices. WAPs send packets directly to devices, rather than sending them to networks like a router does.
+A WAP converts digital signals to anologue.
+Which of the following is an advantage to a star topology?
+Easy to add another computer to the network.
+If the one of the computers break, the network comes down.
+It is more expensive.
+This topology provides multiple paths to succeed in the destination.
+Which of the following is an advantage to a mesh network?
+This topology provides multiple paths to succeed in the destination.
+This topology provides tons of redundancy.
+Easy to add another computer to the network.
+Optimises the use of the NIC.
