@@ -49,8 +49,10 @@ def mul_choice_test(fn:str, num_questions=10):
     print (f'{score}/{num_questions}')
 
 def main():
-    topic = menu()
-    mul_choice_test(topic)
+    while True:
+        topic = menu()
+        mul_choice_test(topic)
+        print()
 
 if __name__ == '__main__':
     main()
