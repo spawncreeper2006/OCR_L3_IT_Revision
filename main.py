@@ -10,6 +10,8 @@ topic_dict = {'1': 'System Architecture.txt',
 
 
 def valid(x:str, num_topics:int):
+    if x=='exit':
+        return True
     if x.isdigit():
         x = int(x)
         if x > 0 and x <= num_topics:
@@ -18,14 +20,18 @@ def valid(x:str, num_topics:int):
     return False
 
 def menu():
+
     k, v = topic_dict.keys(), topic_dict.values()
     num_topics = len(k)
-    topics = '\n'.join([f'{i1}. {i2[:-4]}' for i1, i2 in zip(k, v)])+'\n'
+    topics = 'Input the number of the corresponding topic or type exit:\n'+'\n'.join([f'{i1}. {i2[:-4]}' for i1, i2 in zip(k, v)])+'\n'
     topic = input(topics)
     while not valid(topic, num_topics):
         topic = input('Enter a valid value: ')
 
-    return topic_dict[topic]
+    if topic == 'exit':
+        return False
+    else:
+        return topic_dict[topic]
     
 def get_data(fn:str):
     with open(fn) as f:
@@ -51,12 +57,11 @@ def mul_choice_test(fn:str, num_questions=10):
 def main():
     while True:
         topic = menu()
+        if not topic:
+            break
         mul_choice_test(topic)
         print()
+        
 
 if __name__ == '__main__':
     main()
-    
-
-
-    
