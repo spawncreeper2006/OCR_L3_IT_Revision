@@ -6,7 +6,7 @@ topic_dict = {'1': 'System Architecture.txt',
               '4': 'Primary Storage.txt',
               '5': 'Secondary Storage.txt',
               '6': 'Data Representation.txt',
-              '7': 'Networks and Topologies.txt'
+              '7': 'Networks and Topologies.txt',
               '8' : 'Troubleshooting.txt'}
 
 
