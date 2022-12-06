@@ -1,0 +1,10 @@
+What is troubleshooting?
+A logical process where possible problems are gone through in an orderly manner.
+A process by which the CPU performs the FDE cycle.
+When the control unit sends control signals to the components.
+When the WAP transmits internet data.
+Which of the following may be a factor that could negatively affect an organisations ability to properly troubleshoot?
+cost
+nutritional value
+speed
+efficiency
