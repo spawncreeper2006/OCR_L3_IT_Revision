@@ -1,0 +1,20 @@
+What is the job of an Operating System?
+To create a user interface, manage hardware such as the memory and keep the system running optimally without malware.
+To increase memory.
+To make the computer more water resistant.
+To increase processing power.
+Which of the following is an example of an operating system?
+Windows 11
+Microsoft Office
+GIMP
+Adobe fireworks
+Which of the following is not an example of an operating system?
+Microsoft Edge
+MacOS
+IOS
+Linux
+Which of the following is not a job of the operating system?
+Providing graphics manipulation software.
+Antivirus
+Memory Management
+Defragmentation
