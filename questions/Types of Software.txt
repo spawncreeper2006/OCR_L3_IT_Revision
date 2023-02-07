@@ -1,0 +1,35 @@
+What is Application Software?
+Software that is used to carry out a specific task unrelated to the operation of the computer itself.
+Software designed to help analyze, configure, optimize or maintain a computer.
+A type of computer program that is designed to run a computer's hardware and application programs.
+Defragments the Disk.
+What is Utility Software?
+Software designed to help analyze, configure, optimize or maintain a computer.
+Software that is used to carry out a specific task unrelated to the operation of the computer itself.
+A type of computer program that is designed to run a computer's hardware and application programs.
+Defragments the Disk.
+What is a Management Information System?
+A management information system is an information system used for decision-making, and for the coordination, control, analysis, and visualization of information in an organization.
+This is a way of structuring the RAM.
+This is the only way that Mail can be recieved via POP.
+A type of CPU.
+What is an Operating System (OS)?
+An operating system is system software that manages computer hardware, software resources, and provides common services for computer programs.
+Hardware that controls Input and Output.
+Application Software that allows the user to play a game.
+Application Software that deals with Mail.
+What is Proprietary Software?
+Software that is sold for money.
+Software that is made specially for a single company.
+Very unstaible software.
+Never costs money.
+What is freeware?
+Software that is made by a private entity and distributed for free, often with some other method of getting money rather than directly charging.
+Software that is sold for money.
+Free software that is made by a large group of people in their spare time and has its source code public.
+Software that is heavily tested.
+What is Shareware?
+A type of freeware when a trial is only availabe for a short period of time.
+Any software that is free.
+Free software that is made by a large group of people in their spare time and has its source code public.
+Software that is sold for money.

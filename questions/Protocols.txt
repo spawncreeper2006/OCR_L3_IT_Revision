@@ -1,0 +1,10 @@
+What does SMTP stand for?
+Simple Mail Transfer Protocol
+Standard Messaging Transfer Protocol
+Simple Mail Transmision Protocol
+Standard Mail Transimision Protocol
+What does IMAP stand for?
+Internet Messaging Access Protocol
+Internet Messaging Accident Protocol
+Information Messaging Access Protocol
+Information Messaging Accident Protocol
