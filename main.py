@@ -7,7 +7,9 @@ topic_dict = {'1': 'System Architecture.txt',
               '5': 'Secondary Storage.txt',
               '6': 'Data Representation.txt',
               '7': 'Networks and Topologies.txt',
-              '8' : 'Troubleshooting.txt'}
+              '8' : 'Troubleshooting.txt',
+              '9': 'Types of Software.txt',
+              '10': 'Protocols.txt'}
 
 
 def valid(x:str, num_topics:int):
